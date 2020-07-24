@@ -1,0 +1,9 @@
+VERSION:3 SOURCE_TIMESTAMP:50F682B2
+NODE:I LEVEL:0 LINE:23 "C:\cvavreval\inc\mega32u4.h"
+NODE:I LEVEL:0 LINE:26 "C:\cvavreval\inc\twi.h"
+NODE:I LEVEL:0 LINE:29 "C:\cvavreval\inc\alcd_twi.h"
+NODE:I LEVEL:0 LINE:32 "C:\cvavreval\inc\spi.h"
+NODE:I LEVEL:0 LINE:36 "C:\cvavreval\inc\delay.h"
+NODE:M LEVEL:0 LINE:41 "ADC_VREF_TYPE"
+NODE:F LEVEL:0 LINE:45 "read_adc(unsigned char adc_input)"
+NODE:F LEVEL:0 LINE:60 "main(void)"
